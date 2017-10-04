@@ -1,3 +1,4 @@
 <?php
- echo "Hola món"
+ echo "Hola món";
+ echo "Afegim mètode 1";
 ?>
