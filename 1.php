@@ -3,5 +3,5 @@
  echo "Afegim mètode 1";
  echo "Afegim mètode 2";
  echo "Afegim mètode 3";
- echo "Fantasma";
+ echo "Fantasma1";
 ?>
